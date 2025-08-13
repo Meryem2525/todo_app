@@ -1,0 +1,4 @@
+-  Görev Ekleme — Kullanıcı yeni görevler ekleyebilir.
+- Görev Tamamlama — Tamamlanan görevler tik ile işaretlenir ve üstü çizilir.
+- Görev Silme — Görevler çöp kutusu ikonu ile silinebilir.
+- Kalıcı Kayıt— AsyncStorage sayesinde uygulama kapanınca görevler silinmez.
